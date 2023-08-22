@@ -1,0 +1,2 @@
+# Posture-Detection
+Successfully fine-tuned pretrained YOLOv7 and Mediapipe models using yoga dataset to accurately detect keypoints within yoga postures.Employed RFC,Neural network to classify postures based on these keypoints and achieved the same accuracy of 96 percent on both models. Demonstrated that YOLOv7 with 17 key points effectively landmarked all images which were missed by Mediapipe with 33 key points.
